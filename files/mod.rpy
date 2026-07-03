@@ -10,79 +10,79 @@ translate spanish mod_ee337dcf:
 translate spanish mod_eab82366:
 
     # s "Mr. Cow…"
-    s ""
+    s "Sr. Vaca..."
 
 # game/mod.rpy:14
 translate spanish mod_a583ec49:
 
     # s "I hate this…"
-    s ""
+    s "Odio esto..."
 
 # game/mod.rpy:15
 translate spanish mod_d4416c46:
 
     # s "Every day, looking in the mirror, I see {i}Him{/i}."
-    s ""
+    s "Todos los dias, mirando el espejo, lo veo a {i}el{/i}."
 
 # game/mod.rpy:16
 translate spanish mod_93268c30:
 
     # s "When all I want is just to look at myself."
-    s ""
+    s "Cuando lo unico que quiero es verme a mi."
 
 # game/mod.rpy:17
 translate spanish mod_0e43e36e:
 
     # s "No Mr. Cow, I don’t think that would fly."
-    s ""
+    s "No, Sr. Vaca, dudo que eso pueda volar."
 
 # game/mod.rpy:18
 translate spanish mod_a53ca093:
 
     # s "Wait, you think I should ask my parents?"
-    s ""
+    s "Espera... ¿Crees que deberia preguntarle a mis padres?"
 
 # game/mod.rpy:19
 translate spanish mod_9b49afd1:
 
     # s "I don’t know…"
-    s ""
+    s "No lo sé..."
 
 # game/mod.rpy:20
 translate spanish mod_f0b0c744:
 
     # s "Well, that is true, Mum is probably pretty tired right now."
-    s ""
+    s "Bueno, eso es verdad, mamá estará probablemente muy cansada ahora mismo."
 
 # game/mod.rpy:21
 translate spanish mod_118d290e:
 
     # s "And, she might feel bad to refuse after she agreed in her sleepy state."
-    s ""
+    s "Y, probablemente se sentirá mal por negarse después de haber aceptado cuando estaba somnolienta."
 
 # game/mod.rpy:22
 translate spanish mod_1fd9549f:
 
     # s "There’s that… HRT thingy, that people use."
-    s ""
+    s "Ahí está... La cosa esa del TRH, lo que la gente usa."
 
 # game/mod.rpy:23
 translate spanish mod_81b188f4:
 
     # s "And after all I could just get some pretty clothes too."
-    s ""
+    s "Y despues de todo podría ir a comprar un poco de ropa que me guste."
 
 # game/mod.rpy:24
 translate spanish mod_2edcd45f:
 
     # s "You’re right Mr. Cow!"
-    s ""
+    s "Tienes razón, Sr. Vaca"
 
 # game/mod.rpy:25
 translate spanish mod_20ce5e98:
 
     # s "I’ll go tell her, maybe she’ll be more open to it since I’m starting in a new school too!"
-    s ""
+    s "Iré a decirselo, quizá ella estará mas abierta para ello desde que empecé en el nuevo centro escolar."
 
 # game/mod.rpy:26
 translate spanish mod_3af8aef5:
