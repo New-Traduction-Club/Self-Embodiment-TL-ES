@@ -4,7 +4,7 @@
 translate spanish mod_ee337dcf:
 
     # nvl_n "{cps=15}My room felt alien. {w=1.0}\nMy bow, my clothes, my family, all taken by a boy.{w=1.0}\nI pleaded for him to return it all to me, but he didn't respond. {w=1.0}\nWhen I tried telling my parents… {w=1.0}\nOne wept and one tried to help. {w=1.0}\nOne tried flushing him out drop by drop, {w=1.0}\nthe other tried to rid me from this world…\n"
-    nvl_n ""
+    nvl_n "{cps=15}My habitación se me hace extraña. {w=1.0}\nMi lazo, mi ropa, mi familia, todo apropiado por un chico.{w=1.0}\nLe supliqué que me lo devolviera todo, pero no me respondió... {w=1.0}\nCuando intenté decirselo a mis padres… {w=1.0}\nUno lloró y el otro intentó ayudar. {w=1.0}\nUno intentó sacarle gota por gota, {w=1.0}\nel otro intentó sacarme de este mundo…\n"
 
 # game/mod.rpy:13
 translate spanish mod_eab82366:
@@ -82,631 +82,631 @@ translate spanish mod_2edcd45f:
 translate spanish mod_20ce5e98:
 
     # s "I’ll go tell her, maybe she’ll be more open to it since I’m starting in a new school too!"
-    s "Iré a decirselo, quizá ella estará mas abierta para ello desde que empecé en el nuevo centro escolar."
+    s "Iré a decirselo, quizá ella estará mas abierta para ello desde que estoy empezando las clases en otro centro."
 
 # game/mod.rpy:26
 translate spanish mod_3af8aef5:
 
     # s "I’m so glad [player] won you for me."
-    s ""
+    s "Estoy tan orgullosa que [player] te haya traido para mí."
 
 # game/mod.rpy:27
 translate spanish mod_be3b6a80:
 
     # "I wonder what he would think if he saw me…"
-    ""
+    "Me pregunto que pensaría el si me viera..."
 
 # game/mod.rpy:32
 translate spanish mod_b19d845f:
 
     # "Hmm, it seems Mum is still awake and watching TV."
-    ""
+    "Uhmmm... Parece que mamá aún está despierta y viendo la televisión."
 
 # game/mod.rpy:33
 translate spanish mod_52d071f1:
 
     # "Perfect time to ask her."
-    ""
+    "Es el momento perfecto para preguntarle."
 
 # game/mod.rpy:34
 translate spanish mod_efdd2ac4:
 
     # s "Mum… I got something I want to tell you."
-    s ""
+    s "Mamá, tengo que decirte algo..."
 
 # game/mod.rpy:36
 translate spanish mod_3e24b1cc:
 
     # sm "What is it sweetie?"
-    sm ""
+    sm "¿Dime, cariño?"
 
 # game/mod.rpy:38
 translate spanish mod_60dd5fb7:
 
     # s "Well… I… hmmph…"
-    s ""
+    s "Bueno... Yo... Hmphhh..."
 
 # game/mod.rpy:39
 translate spanish mod_23c7d512:
 
     # s "Give me a moment."
-    s ""
+    s "Dame un momento."
 
 # game/mod.rpy:40
 translate spanish mod_ec115d71:
 
     # "Gahhh, I can’t do it, maybe a note will do better?"
-    ""
+    "Ahhhh, no puedo hacerlo ¿Una nota será mejor?"
 
 # game/mod.rpy:41
 translate spanish mod_cc351865:
 
     # "I quickly grab a pen and paper from the room, and write a note for my mum."
-    ""
+    "Rapidamente agarro papel y lápiz de mi habitación y le escribo una nota mamá."
 
 # game/mod.rpy:42
 translate spanish mod_bf3be322:
 
     # "Something along the lines of me wanting to be a girl, that should be enough."
-    ""
+    "Algo entre las lineas sobre mí queriendo ser una chica, eso bastaría"
 
 # game/mod.rpy:43
 translate spanish mod_6ff12ae9:
 
     # s "Here you go Mum!"
-    s ""
+    s "¡Aquí tienes, Mamá!"
 
 # game/mod.rpy:45
 translate spanish mod_701c8854:
 
     # sm "What’s this?"
-    sm ""
+    sm "¿Eso que es?"
 
 # game/mod.rpy:48
 translate spanish mod_b9ce2dc5:
 
     # sm "Oh…?"
-    sm ""
+    sm "¿Oh?"
 
 # game/mod.rpy:49
 translate spanish mod_21aaed41:
 
     # "That… doesn’t sound like a good oh."
-    ""
+    "Eso... No suena bien..."
 
 # game/mod.rpy:51
 translate spanish mod_92990fe2:
 
     # "Maybe I shouldn’t trust a stuffed toy on life changing decisions…"
-    ""
+    "Quizá no debería haberle hecho caso a un estupido juguete sobre decisiones de cambio de vida."
 
 # game/mod.rpy:53
 translate spanish mod_cd11b8a4:
 
     # sm "I see, well."
-    sm ""
+    sm "Ya veo..."
 
 # game/mod.rpy:54
 translate spanish mod_8c96a33b:
 
     # sm "I did always want a daughter."
-    sm ""
+    sm "Yo siempre quise una hija."
 
 # game/mod.rpy:56
 translate spanish mod_9bd36027:
 
     # "My Mum just smiles at me, hearing her reaction has made me feel... myself."
-    ""
+    "Mamá simplemente me sonrie, oír su reacción me hice sentirme... Yo misma..."
 
 # game/mod.rpy:57
 translate spanish mod_46c2dbb1:
 
     # "Made me feel like I'm not a stranger in my own body."
-    ""
+    "Me hace sentir como sí no fuera un extraño en mi propio cuerpo."
 
 # game/mod.rpy:58
 translate spanish mod_bf61daba:
 
     # "I hope this feeling lasts."
-    ""
+    "Espero que esta sensación dure."
 
 # game/mod.rpy:61
 translate spanish mod_10047c00:
 
     # "The next morning, Mum took me shopping."
-    ""
+    "La mañana siguiente, mamá me llevó de compras."
 
 # game/mod.rpy:62
 translate spanish mod_35e30102:
 
     # "We didn’t actually pick out many outfits, because I was a little picky."
-    ""
+    "No compramos muchas prendas, porque estaba un poco exigente."
 
 # game/mod.rpy:63
 translate spanish mod_ec1a4353:
 
     # "But we did get a nice casual outfit, a uniform for my new school and a super pretty bow."
-    ""
+    "Pero conseguimos un genial autendo casual, un uniforme para mí nueva escuela y un lazo super precioso."
 
 # game/mod.rpy:64
 translate spanish mod_b436b000:
 
     # "And now I’m finally putting on my new clothes, I hope they’ll look great."
-    ""
+    "Y ahora finalmente estoy probandome mis nuevas prendas, espero que me vea bien"
 
 # game/mod.rpy:65
 translate spanish mod_349dba0c:
 
     # "We didn’t actually have much time to try them on."
-    ""
+    "En realidad no tenemos mucho tiempo para probarlas."
 
 # game/mod.rpy:69
 translate spanish mod_d99e8269:
 
     # s "Wow."
-    s ""
+    s "Wow."
 
 # game/mod.rpy:70
 translate spanish mod_f71f2419:
 
     # s "I look so pretty."
-    s ""
+    s "Se vé tan precioso."
 
 # game/mod.rpy:72
 translate spanish mod_d924881b:
 
     # sm "That you do."
-    sm ""
+    sm "Desde luego."
 
 # game/mod.rpy:73
 translate spanish mod_ba258a19:
 
     # sm "Such a beautiful daughter."
-    sm ""
+    sm "Como una hermosa hija."
 
 # game/mod.rpy:75
 translate spanish mod_a27ed00c:
 
     # s "Wow… thank you Mum."
-    s ""
+    s "Wow, gracias mamá."
 
 # game/mod.rpy:76
 translate spanish mod_82b823fc:
 
     # s "I can’t wait for school."
-    s ""
+    s "No puedo esperar por empezar las clases."
 
 # game/mod.rpy:78
 translate spanish mod_712eefb0:
 
     # sm "You’re quite lucky you already had long hair."
-    sm ""
+    sm "Tienes mucha suerte que ya de por sí tienes pelo largo."
 
 # game/mod.rpy:79
 translate spanish mod_93f8d7c4:
 
     # sm "Made it easy to style it a bit."
-    sm ""
+    sm "Fue facil darle un buen estilo."
 
 # game/mod.rpy:81
 translate spanish mod_0731112c:
 
     # sm "I guess I should have seen the signs that you weren’t feeling well in your skin…"
-    sm ""
+    sm "Creo que debí haberme dado cuenta que no te sentias bien con tu cuerpo."
 
 # game/mod.rpy:83
 translate spanish mod_60660537:
 
     # s "It’s okay Mum, I’m just happy that I can dress how I want."
-    s ""
+    s "Está bien mamá, simplemente estoy feliz que ahora puedo vestir como quiero."
 
 # game/mod.rpy:85
 translate spanish mod_22b161db:
 
     # sm "Also, I did look into the HRT."
-    sm ""
+    sm "Tambien, le eché un vistazo a la TRH"
 
 # game/mod.rpy:86
 translate spanish mod_ad8dddde:
 
-    # sm "The hormone replacement therapy."
+    # sm "La terapia de reemplazo hormonal."
     sm ""
 
 # game/mod.rpy:88
 translate spanish mod_366a5775:
 
     # s "Oh?"
-    s ""
+    s "Uh?"
 
 # game/mod.rpy:89
 translate spanish mod_c6ac668c:
 
     # s "What did you learn?"
-    s ""
+    s "¿Que aprendiste?"
 
 # game/mod.rpy:91
 translate spanish mod_58ec97c1:
 
     # sm "Well… our insurance will cover a part of it, but not all."
-    sm ""
+    sm "Bueno... Nuestro seguro médico cubrirá parte del tratamiento, pero todo."
 
 # game/mod.rpy:93
 translate spanish mod_6a397a5d:
 
     # s "I see…"
-    s ""
+    s "Ya veo..."
 
 # game/mod.rpy:95
 translate spanish mod_f263458c:
 
     # sm "But don’t worry, the left over amount isn’t that much, so we’ll be able to pay it off."
-    sm ""
+    sm Pero no te preocupes, el coste no es tan caro, así que podré pagarlo.""
 
 # game/mod.rpy:97
 translate spanish mod_e6afce78:
 
     # s "Really!?!"
-    s ""
+    s "¿¿¿¡¡¡En serio!!!???"
 
 # game/mod.rpy:99
 translate spanish mod_1c49278f:
 
     # sm "Yes, what matters is that you’re comfortable in your skin."
-    sm ""
+    sm "Sí, lo que importa es que te sientas bien en tu cuerpo."
 
 # game/mod.rpy:101
 translate spanish mod_c584b9d2:
 
     # s "Oh my god, thank you, thank you, thank you!"
-    s ""
+    s "Dios mío... Gracias, gracias ¡Gracias!"
 
 # game/mod.rpy:104
 translate spanish mod_74dd2d3b:
 
     # sd "What are you two up to?"
-    sd ""
+    sd "¿De que hablais vosotras dos?"
 
 # game/mod.rpy:105
 translate spanish mod_fe215703:
 
     # s "Oh hey Dad!"
-    s ""
+    s "Oh, Hola papá"
 
 # game/mod.rpy:106
 translate spanish mod_dbd13344:
 
     # s "Mum and I went shopping today, to help me feel like me!"
-    s ""
+    s "Mamá y yo fuimos de compras hoy, para hacerme sentir yo misma."
 
 # game/mod.rpy:107
 translate spanish mod_5090148d:
 
     # sd "What does that mean?"
-    sd ""
+    sd "¿Que quiere decir eso?"
 
 # game/mod.rpy:108
 translate spanish mod_468621ae:
 
     # s "Come take a look!"
-    s ""
+    s "¡Ven y mirame!"
 
 # game/mod.rpy:120
 translate spanish mod_79a4578c:
 
     # "The face… I saw on my father after he entered my room, was a face I would never forget."
-    ""
+    "Esa cara... La que ví en mi padre despues de entrar a la habitación, fue una que no podré olvidar jamás."
 
 # game/mod.rpy:134
 translate spanish mod_2ae0635e:
 
     # sd "What is this?"
-    sd ""
+    sd "¿Que es esto?"
 
 # game/mod.rpy:136
 translate spanish mod_54c949e4:
 
     # s "Something wrong?"
-    s ""
+    s "¿Hay algo mal?"
 
 # game/mod.rpy:138
 translate spanish mod_cab3c18b:
 
     # sd "Everything."
-    sd ""
+    sd "Todo."
 
 # game/mod.rpy:139
 translate spanish mod_38528576:
 
     # sd "Why are you playing dress up?"
-    sd ""
+    sd "¿Por qué juegas a vestirte así?"
 
 # game/mod.rpy:140
 translate spanish mod_c2fe88c4:
 
     # sd "Do you have some play at school or something?"
-    sd ""
+    sd "¿Tienes algún juego en clase o algo?"
 
 # game/mod.rpy:142
 translate spanish mod_5f10acef:
 
     # sd "I swear, our education system just loves messing up our children's heads."
-    sd ""
+    sd "Te lo juro, nuestro sistema educativo ama lavarle la cabeza a nuestros hijos."
 
 # game/mod.rpy:145
 translate spanish mod_fc034e14:
 
     # sm "Honey, our daughter just wanted to feel better in her skin."
-    sm ""
+    sm "Amor, nuestra hija simplemente quiere sentirse mejor en su cuerpo."
 
 # game/mod.rpy:148
 translate spanish mod_1db0a4dc:
 
     # sd "Daughter?"
-    sd ""
+    sd "¿¿¿Hija???"
 
 # game/mod.rpy:149
 translate spanish mod_580b1a83:
 
     # sd "What are you blabbering about?"
-    sd ""
+    sd "¿De que cojones estás hablando?"
 
 # game/mod.rpy:152
 translate spanish mod_3cecbea3:
 
     # sm "Oh please, can’t you be a little happy for our daughter for once?"
-    sm ""
+    sm "Oh venga ¿No puedes alegrarte un poco por nuestra hija un rato?"
 
 # game/mod.rpy:155
 translate spanish mod_15bffb01:
 
     # sd "Stop calling him that."
-    sd ""
+    sd "Para de llamarle así"
 
 # game/mod.rpy:156
 translate spanish mod_9639837f:
 
     # sd "This carefree attitude by letting him do whatever he wants is sickening."
-    sd ""
+    sd "Esta actitud irresponsable de dejarle a el hacer lo que quiere es enfermiza."
 
 # game/mod.rpy:157
 translate spanish mod_05a61ce5:
 
     # sd "It’s probably the reason he never goes out."
-    sd ""
+    sd "Es probablemente la razón por la que nunca sale de casa."
 
 # game/mod.rpy:160
 translate spanish mod_497215a5:
 
     # sm "Look at her, she had such a beautiful smile before you came here."
-    sm ""
+    sm "Mirala, tenía una hermosa sonrisa antes que vengas tú."
 
 # game/mod.rpy:161
 translate spanish mod_a50e20ef:
 
     # sm "Now you just have to ruin her mood."
-    sm ""
+    sm "Ahora has arruinado su estado de ánimo."
 
 # game/mod.rpy:164
 translate spanish mod_9e93afff:
 
     # sd "Ruin her mood?"
-    sd ""
+    sd "¿Arruinar su estado de ánimo?"
 
 # game/mod.rpy:165
 translate spanish mod_76ce5146:
 
     # sd "All I’m ruining are HIS delusions."
-    sd ""
+    sd "Más bien lo que estoy destruyendo son SUS deliros."
 
 # game/mod.rpy:166
 translate spanish mod_36962497:
 
     # sd "I know we had our disagreements throughout our marriage, but this takes the cake."
-    sd ""
+    sd "Ya había notado que teníamos un desagrado durante nuestro matrimonio, pero esta fué la gota que colmó el vaso."
 
 # game/mod.rpy:167
 translate spanish mod_601926f2:
 
     # sd "And Satoru, you take off that bow!"
-    sd ""
+    sd "Y Satoru ¡Quitate ese estupido lazo!"
 
 # game/mod.rpy:168
 translate spanish mod_d6602a5f:
 
     # sd "You look stupid in it."
-    sd ""
+    sd "Pareces un marica con esa cosa."
 
 # game/mod.rpy:171
 translate spanish mod_5a3226bb:
 
     # sm "What’s wrong with you?!"
-    sm ""
+    sm "¿¡Que te pasa!?"
 
 # game/mod.rpy:174
 translate spanish mod_8103142f:
 
     # sd "With me?"
-    sd ""
+    sd "¿Conmigo?"
 
 # game/mod.rpy:175
 translate spanish mod_0f1ddbfc:
 
     # sd "The only thing wrong here currently is our son dressing like a faggot and gawking at himself in the mirror."
-    sd ""
+    sd "La única cosa incorrecta aquí es nuestro hijo vistiendo como un auténtico maricón y mirandose así en el espejo."
 
 # game/mod.rpy:176
 translate spanish mod_e2352298:
 
     # sd "And of course he has to have a little skirt too."
-    sd ""
+    sd "Y por supuesto tenía que tener una minifalda tambien."
 
 # game/mod.rpy:178
 translate spanish mod_a4533249:
 
     # "I just shrink into myself and kneel on the ground, quietly crying."
-    ""
+    "Me encogí sobre mi misma y me arrodillé en el suelo, rompiendo a llorar silenciosamente."
 
 # game/mod.rpy:183
 translate spanish mod_1923622a:
 
     # sm "I just want our child to feel good!"
-    sm ""
+    sm "¡Solo quiero ver a nuestro hijo feliz!"
 
 # game/mod.rpy:184
 translate spanish mod_7fb5be8c:
 
     # sm "What’s so wrong with that?"
-    sm ""
+    sm "¿Hay algún problema con eso?"
 
 # game/mod.rpy:185
 translate spanish mod_93dca793:
 
     # sd "Everything!"
-    sd ""
+    sd "¡Absolutamente todo!"
 
 # game/mod.rpy:186
 translate spanish mod_34bed28b:
 
     # sd "You want him to be bullied at school?"
-    sd ""
+    sd "¿Quieres que ser rían de ella en la escuela?"
 
 # game/mod.rpy:187
 translate spanish mod_81b9a66b:
 
     # sd "Or even worse, be locked up in some mental institute."
-    sd ""
+    sd "O peor, que la internen en un hospital psiquiátrico"
 
 # game/mod.rpy:188
 translate spanish mod_e17fd804:
 
     # sd "Stop indulging him in such nonsense!"
-    sd ""
+    sd "¡Deja de enseñarle esas mierdas!"
 
 # game/mod.rpy:189
 translate spanish mod_3db2a177:
 
     # sm "You’re making her cry, are you happy now?!"
-    sm ""
+    sm "La has hecho llorar ¿Estas feliz ahora?"
 
 # game/mod.rpy:190
 translate spanish mod_25cc5f9d:
 
     # sd "Let HIM cry!"
-    sd ""
+    sd "¡Dejale que ÉL llore!"
 
 # game/mod.rpy:191
 translate spanish mod_afe9635e:
 
     # sd "Stop calling him a her."
-    sd ""
+    sd "Y deja de llamarla como una chica."
 
 # game/mod.rpy:192
 translate spanish mod_fd8dcb96:
 
     # sd "I won’t stand by and say nothing as you fuck with our sons head."
-    sd ""
+    sd No pienso quedarme aquí parado sin decir nada mientras jodes la cabeza de nuestro hijo.""
 
 # game/mod.rpy:193
 translate spanish mod_2effd30e:
 
     # sd "He's not gonna become some transvestite and ruin his future."
-    sd ""
+    sd "El no va a ser un travelo y arruinar su futuro."
 
 # game/mod.rpy:194
 translate spanish mod_7be1d78a:
 
     # sd "You expect him to find a job whilst he plays dress up?!"
-    sd ""
+    sd "¿¡Esperas que encuentre trabajo mientras juega a ser travesti!?"
 
 # game/mod.rpy:195
 translate spanish mod_9689b594:
 
     # sm "Can you just leave!"
-    sm ""
+    sm "¡Vete!"
 
 # game/mod.rpy:196
 translate spanish mod_62712d2d:
 
     # sm "This whole thing is just you throwing a tantrum at nothing."
-    sm ""
+    sm "Todo esto eres simplemente tu lanzando una sarta de estupideces."
 
 # game/mod.rpy:197
 translate spanish mod_f165d5b2:
 
     # sd "Nothing?"
-    sd ""
+    sd "¿Estupideces?"
 
 # game/mod.rpy:198
 translate spanish mod_68de1083:
 
     # sd "Right… sure…"
-    sd ""
+    sd "Correcto, ok..."
 
 # game/mod.rpy:199
 translate spanish mod_6db497b1:
 
     # sd "Once our SON ends up as some two dollar whore with a fucked body we’ll see if it was nothing."
-    sd ""
+    sd "Cuando nuestro HIJO acabe siendo una mísera puta vendida a dos monedas con un cuerpo hecho un asco veremos si YO decía estupideces."
 
 # game/mod.rpy:200
 translate spanish mod_fd7dd07c:
 
     # sd "Pathetic."
-    sd ""
+    sd "Patético."
 
 # game/mod.rpy:203
 translate spanish mod_c8d7d3e8:
 
     # "Dad slams the door shut as he leaves my room."
-    ""
+    "Papá da un portazo y en el momento que me deja en mi habitación."
 
 # game/mod.rpy:206
 translate spanish mod_ff56d4d2:
 
     # "As soon as he leaves, I let out a sigh of relief before fully breaking into loud sobbing"
-    ""
+    "Tan pronto como se vá, dejo salír un suspiro de alivio antes de romper a sollozar ruidosamente."
 
 # game/mod.rpy:210
 translate spanish mod_7ac1cedd:
 
     # sm "Shhh… it’s okay."
-    sm ""
+    sm "Shhh... Está bien."
 
 # game/mod.rpy:212
 translate spanish mod_4d26dbe0:
 
     # sm "Don’t listen to your old man, I’m sure he’ll understand with time."
-    sm ""
+    sm "No escuches a tu padre, estoy segura que con el tiempo lo entenderá."
 
 # game/mod.rpy:214
 translate spanish mod_ff921bf8:
 
     # s "A-are you sure?"
-    s ""
+    s "¿E-estas segura?"
 
 # game/mod.rpy:216
 translate spanish mod_386524ec:
 
     # sm "Pretty sure."
-    sm ""
+    sm "Totalmente segura."
 
 # game/mod.rpy:218
 translate spanish mod_9d7dbae0:
 
     # sm "I wouldn’t marry him otherwise."
-    sm ""
+    sm "No me habría casado con el si no fuera así"
 
 # game/mod.rpy:219
 translate spanish mod_2573f6fa:
 
     # sm "So don’t take anything he said seriously."
-    sm ""
+    sm "Así que no te tomes enserio lo que dijo."
 
 # game/mod.rpy:221
 translate spanish mod_7b9ab367:
 
     # s "Okay…"
-    s ""
+    s "Okay."
 
 # game/mod.rpy:223
 translate spanish mod_6c74e80c:
