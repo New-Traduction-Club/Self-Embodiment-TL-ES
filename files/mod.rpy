@@ -4,7 +4,7 @@
 translate spanish mod_ee337dcf:
 
     # nvl_n "{cps=15}My room felt alien. {w=1.0}\nMy bow, my clothes, my family, all taken by a boy.{w=1.0}\nI pleaded for him to return it all to me, but he didn't respond. {w=1.0}\nWhen I tried telling my parents… {w=1.0}\nOne wept and one tried to help. {w=1.0}\nOne tried flushing him out drop by drop, {w=1.0}\nthe other tried to rid me from this world…\n"
-    nvl_n "{cps=15}My habitación se me hace extraña. {w=1.0}\nMi lazo, mi ropa, mi familia, todo apropiado por un chico.{w=1.0}\nLe supliqué que me lo devolviera todo, pero no me respondió... {w=1.0}\nCuando intenté decirselo a mis padres… {w=1.0}\nUno lloró y el otro intentó ayudar. {w=1.0}\nUno intentó sacarle gota por gota, {w=1.0}\nel otro intentó sacarme de este mundo…\n"
+    nvl_n "{cps=15}Mi habitación se me hace extraña. {w=1.0}\nMi lazo, mi ropa, mi familia, todo apropiado por un chico.{w=1.0}\nLe supliqué que me lo devolviera todo, pero no me respondió... {w=1.0}\nCuando intenté decirselo a mis padres… {w=1.0}\nUno lloró y el otro intentó ayudar. {w=1.0}\nUno intentó sacarle gota por gota, {w=1.0}\nel otro intentó sacarme de este mundo…\n"
 
 # game/mod.rpy:13
 translate spanish mod_eab82366:
@@ -694,7 +694,7 @@ translate spanish mod_386524ec:
 translate spanish mod_9d7dbae0:
 
     # sm "I wouldn’t marry him otherwise."
-    sm "No me habría casado con el si no fuera así"
+    sm "No me habría casado con el si no fuera así."
 
 # game/mod.rpy:219
 translate spanish mod_2573f6fa:
@@ -712,121 +712,121 @@ translate spanish mod_7b9ab367:
 translate spanish mod_6c74e80c:
 
     # sm "Now, onto a more happy question."
-    sm ""
+    sm "Ahora, sobre una pregunta mas feliz."
 
 # game/mod.rpy:225
 translate spanish mod_7d9e718c:
 
     # sm "Have you finally figured out a name for yourself?"
-    sm ""
+    sm "¿Ya tienes pensado tu nuevo nombre?"
 
 # game/mod.rpy:227
 translate spanish mod_3cd7cfe3:
 
     # sm "I know I asked you at the mall already, but you still weren’t sure by then."
-    sm ""
+    sm "Sé que te lo pregunté en el centro comercial, pero todavia no estabas segura en ese momento."
 
 # game/mod.rpy:229
 translate spanish mod_6febd819:
 
     # s "I… I gave it some thought and would you mind calling me Sayori?"
-    s ""
+    s "Yo... ¿Yo pensaba si te importaria que me llamara Sayori?"
 
 # game/mod.rpy:231
 translate spanish mod_cb20132b:
 
     # sm "Fufufu… well you my daughter, will definitely blossom into a beautiful woman, like a cherry blossom."
-    sm ""
+    sm "Fufufu... Pues bien, hija mía, sin duda te convertirás en una mujer preciosa, como una flor de cerezo."
 
 # game/mod.rpy:233
 translate spanish mod_2c0dc4e4:
 
     # sm "So I’d say the name is fitting."
-    sm ""
+    sm "Así que debo decir que el nombre te queda bien."
 
 # game/mod.rpy:235
 translate spanish mod_6f52caf3:
 
     # s "Thank you…"
-    s ""
+    s "Gracias..."
 
 # game/mod.rpy:237
 translate spanish mod_42603098:
 
     # sm "Now, I’ll leave you alone, and you should put on that bow again, it suits you well."
-    sm ""
+    sm "Ahora, te dejaré sola, y deberias ponerte ese lazo otra vez, te queda genial."
 
 # game/mod.rpy:239
 translate spanish mod_8e4fbfa8:
 
     # s "Ehehe… thanks Mum."
-    s ""
+    s "Ehehe... Gracias mamá."
 
 # game/mod.rpy:244
 translate spanish mod_e0d0619a:
 
     # "I make my way onto my bed, and bury my face in the pillows."
-    ""
+    "Me acuesto sobre mi cama, enterrando mi cara sobre la almohada."
 
 # game/mod.rpy:263
 translate spanish mod_2b9c4031:
 
     # s "Stupid, stupid!"
-    s ""
+    s "¡Imbécil, imbécil!"
 
 # game/mod.rpy:264
 translate spanish mod_bacf4717:
 
     # s "Why did I think that it would all go smoothly."
-    s ""
+    s "Por qué pensé que todo iba a ser tan simple."
 
 # game/mod.rpy:266
 translate spanish mod_a7959977:
 
     # s "Now my own Dad hates me."
-    s ""
+    s "Ahora mi propio padre me odio."
 
 # game/mod.rpy:267
 translate spanish mod_eccc2766:
 
     # s "All because I wanted to be a little selfish and just be myself."
-    s ""
+    s "Solo por querer ser un poco egoísta y solo ser yo misma"
 
 # game/mod.rpy:268
 translate spanish mod_0da69d7d:
 
     # s "Stupid outfit, stupid bow…"
-    s ""
+    s "Estupida ropa, supito lazo..."
 
 # game/mod.rpy:269
 translate spanish mod_5c1da528:
 
     # s "Maybe at school it won’t be so bad, right Mr. Cow?"
-    s ""
+    s "Quizá en la escuela no será tan malo ¿Cierto Sr. Vaca?"
 
 # game/mod.rpy:270
 translate spanish mod_76b5c1d6:
 
     # s "There won't be more people like Dad... right?"
-    s ""
+    s "No habrá más gente como papá... ¿Verdad?"
 
 # game/mod.rpy:271
 translate spanish mod_0f3ffbbc:
 
     # s "Only a few days until I start going there."
-    s ""
+    s "Solo quedan un par de días para que comience a ir ahí."
 
 # game/mod.rpy:272
 translate spanish mod_ea54cf86:
 
     # s "I'd rather take you with me, but I can't."
-    s ""
+    s "Me encantaría llevarte conmigo, pero no puedo."
 
 # game/mod.rpy:273
 translate spanish mod_6dad5417:
 
     # s "Wish me luck Mr. Cow"
-    s ""
+    s "Deseame suerte, Sr. Vaca"
 
 # game/mod.rpy:278
 translate spanish mod_76b2fe88:
@@ -838,385 +838,385 @@ translate spanish mod_76b2fe88:
 translate spanish mod_faedf6bc:
 
     # nvl_n "{cps=15}Drop by drop my room was filled…{w=1.0}\nJust wait for him to be flushed out I thought.{w=1.0}\nBut others came to watch… {w=1.0}\nOne yelled out against the murder of his son, and others just tried to look inside. {w=1.0}\nWould they throw me out of my own home? {w=1.0}\nIf the boy doesn't leave?! {w=1.0}\n"
-    nvl_n ""
+    nvl_n "{cps=15}Gota por gota mi habitación fue llenada…{w=1.0}\nSolo esperando que el desapareciese como pensaba.{w=1.0}\nPero otros vinieron a observar… {w=1.0}\nUno gritó contra el asesinato de su hijo, y otros intentaron mirar a fondo. {w=1.0}\n¿Me echarían de mi propia casa? {w=1.0}\n¡¿Si el chico no desaparece?! {w=1.0}\n"
 
 # game/mod.rpy:288
 translate spanish mod_f430a842:
 
     # "Awww… class is over."
-    ""
+    "Awww... Las clases terminaron."
 
 # game/mod.rpy:289
 translate spanish mod_73c8fa6f:
 
     # "This class wasn’t actually that bad, I wonder what we have next."
-    ""
+    "Esta clase no fue realmente tan mal, me pregunto que va siguiente"
 
 # game/mod.rpy:290
 translate spanish mod_f609f923:
 
     # "I look over my schedule and my smile drops."
-    ""
+    "Miro el horario y mi sonrisa se desvanece."
 
 # game/mod.rpy:291
 translate spanish mod_f6a422f9:
 
     # "PE."
-    ""
+    "EF."
 
 # game/mod.rpy:292
 translate spanish mod_33747bf2:
 
     # "Awww, every week that I see PE on my schedule I just know it’s gonna be awful."
-    ""
+    "Awww, cada semana que veo EF en mi horario sé que esto va a ser horrible."
 
 # game/mod.rpy:293
 translate spanish mod_d814ef85:
 
     # "I… don’t want to risk that the… tucking comes undone."
-    ""
+    "Yo… no quiero correr el riesgo qe… se deshaga el dobladillo"
 
 # game/mod.rpy:294
 translate spanish mod_910259b0:
 
     # "The PE teacher should be in his office right now, so I better go ask him to excuse me again…"
-    ""
+    "El profesor de Educación Física debería estar en su oficina ahora mismo, así que será mejor que vaya a preguntarle que me perdone de nuevo."
 
 # game/mod.rpy:295
 translate spanish mod_a871530d:
 
     # "I guess I’ll go with the sickness excuse again."
-    ""
+    "Supongo que usaré la excusa de la gripe otra vez."
 
 # game/mod.rpy:297
 translate spanish mod_e1fb57b0:
 
     # s "Hello Mr. Saionji."
-    s ""
+    s "Hola Sr. Saionji."
 
 # game/mod.rpy:298
 translate spanish mod_34d0ac31:
 
     # s "May I come in?"
-    s ""
+    s "¿Puedo pasar?"
 
 # game/mod.rpy:300
 translate spanish mod_5a972e06:
 
     # sai "Of course Sayori."
-    sai ""
+    sai "Por supuesto Sayori."
 
 # game/mod.rpy:302
 translate spanish mod_eb39ed64:
 
     # sai "Now, I presume that asking why you came here is useless."
-    sai ""
+    sai "Imagino que preguntarte porque viniste aquí es inútil."
 
 # game/mod.rpy:303
 translate spanish mod_3ed0ef1b:
 
     # sai "Got a stomach ache again, or maybe your legs hurt?"
-    sai ""
+    sai "¿Dolor estomacal otra vez, o quizas tus piernas te duelen?"
 
 # game/mod.rpy:306
 translate spanish mod_40dd9a26:
 
     # s "Ehehe… yeah something like that."
-    s ""
+    s "Ejeje... Sí, algo similar."
 
 # game/mod.rpy:307
 translate spanish mod_78ed74f3:
 
     # s "Would it be possible to be excused again then?"
-    s ""
+    s "¿Seria posible que me perdones la clase otra vez?"
 
 # game/mod.rpy:310
 translate spanish mod_9ac268f5:
 
     # sai "Now, I know that I have been lenient in the past, but this is getting absurd."
-    sai ""
+    sai "Sé que he sido paciente en el pasado, pero esto se está haciendo absurdo."
 
 # game/mod.rpy:311
 translate spanish mod_10b193b4:
 
     # sai "It is week after week."
-    sai ""
+    sai "Semana tras semana."
 
 # game/mod.rpy:312
 translate spanish mod_59c3eb1a:
 
     # sai "And I believe it’s fairly obvious that you aren’t actually unwell."
-    sai ""
+    sai "Y creo que es evidente que no tienes ningún problema realmente."
 
 # game/mod.rpy:314
 translate spanish mod_c678702f:
 
     # s "Well… it’s a little complicated."
-    s ""
+    s "Bueno... Es más dificl de lo que parece."
 
 # game/mod.rpy:316
 translate spanish mod_393ee6e8:
 
     # sai "Then please, enlighten me."
-    sai ""
+    sai "Entonces, iluminame."
 
 # game/mod.rpy:317
 translate spanish mod_47578e27:
 
     # sai "Physical exercise is very important, and I know it may not always be fun, but still."
-    sai ""
+    sai "La actividad física es muy importante, y se que no es muy divertido, pero sigue siendo necesario."
 
 # game/mod.rpy:319
 translate spanish mod_03075d32:
 
     # s "It’s not that…"
-    s ""
+    s "No es eso..."
 
 # game/mod.rpy:321
 translate spanish mod_58afd89a:
 
     # sai "Then what?"
-    sai ""
+    sai "¿Entonces que es?"
 
 # game/mod.rpy:322
 translate spanish mod_528a7b0f:
 
     # sai "Are you being bullied perhaps?"
-    sai ""
+    sai "¿Se rien de ti quizás?"
 
 # game/mod.rpy:323
 translate spanish mod_1d64d714:
 
     # sai "Are you embarrassed to change in front of your classmates?"
-    sai ""
+    sai "¿Te da vergüenza cambiarte enfrente de tus compañeros?"
 
 # game/mod.rpy:325
 translate spanish mod_ebc384d8:
 
     # s "Y-yes!"
-    s ""
+    s "¡S-sí!"
 
 # game/mod.rpy:326
 translate spanish mod_47afbb05:
 
     # s "Let’s say that."
-    s ""
+    s "Vamos a decir que sí."
 
 # game/mod.rpy:327
 translate spanish mod_af54967f:
 
     # s "The gym clothes are very revealing, and embarrassing and… and…"
-    s ""
+    s "La ropa de gimnasia es muy reveladora, y me da vergüenza y... y..."
 
 # game/mod.rpy:329
 translate spanish mod_fe732d08:
 
     # sai "Hmm…"
-    sai ""
+    sai "Hmm."
 
 # game/mod.rpy:331
 translate spanish mod_18eed7d6:
 
     # sai "Fine, I’ll allow it for now, but please on your own time, try to ask the principal about different clothes for PE."
-    sai ""
+    sai "Vale, lo pasaré por ahora, pero por favor cuando puedas, prueba a preguntarle al director sobre distintas prendas para EF."
 
 # game/mod.rpy:333
 translate spanish mod_e9d77875:
 
     # sai "Seeing the younger generation not care about sports is disheartening."
-    sai ""
+    sai "Ver a las generaciones jovenes no importarle los deportes es desalentador."
 
 # game/mod.rpy:335
 translate spanish mod_de93ff01:
 
     # s "Yes, sorry."
-    s ""
+    s "Sí, lo siento."
 
 # game/mod.rpy:336
 translate spanish mod_131da122:
 
     # s "I do like sports I promise!"
-    s ""
+    s "¡Juro que me gustan los deportes!"
 
 # game/mod.rpy:338
 translate spanish mod_8407d744:
 
     # sai "Fine, guess you’ll be on whistle duty then."
-    sai ""
+    sai "Genial, supongo que te tocará hacer labores de árbitraje entonces."
 
 # game/mod.rpy:340
 translate spanish mod_6320944b:
 
     # s "Alright!"
-    s ""
+    s "¡Entendido!"
 
 # game/mod.rpy:341
 translate spanish mod_d24c38e1:
 
     # s "I’ll head to the gymnasium then."
-    s ""
+    s "Iré al gimnasio entonces."
 
 # game/mod.rpy:343
 translate spanish mod_7473662c:
 
     # sai "Alright, have a good day."
-    sai ""
+    sai "Vale, ten un buen dia."
 
 # game/mod.rpy:345
 translate spanish mod_360178a7:
 
     # "Well, seems like he won’t question me again for a bit."
-    ""
+    "Bien, parece que el no me preguntará por un tiempo."
 
 # game/mod.rpy:346
 translate spanish mod_cdfc5e1d:
 
     # "Phew."
-    ""
+    "Few."
 
 # game/mod.rpy:347
 translate spanish mod_b3ddd120:
 
     # "There’s still plenty of time before the bell rings, I could use a snack."
-    ""
+    "Todavía queda un poco de tiempo antes que el timbre suene, podría usarlo para desayunar."
 
 # game/mod.rpy:348
 translate spanish mod_f609a8cb:
 
     # "Ooooh, maybe they’ll have those yummy small cakes."
-    ""
+    "Ooooh, quizás tienen esas deliciosas tartas pequeñas,."
 
 # game/mod.rpy:349
 translate spanish mod_f4b21f35:
 
     # "And apple juice."
-    ""
+    "Y un zumo de manzana."
 
 # game/mod.rpy:350
 translate spanish mod_27977e4b:
 
     # "I sure could use a nice cold bottle of apple juice."
-    ""
+    "Estoy segura que puedo usar una buena botella fría de zumo de manzana."
 
 # game/mod.rpy:353
 translate spanish mod_3fad103b:
 
     # s "Oooh!"
-    s ""
+    s "Ohhh!"
 
 # game/mod.rpy:354
 translate spanish mod_068ff586:
 
     # "They do have it, awesome!"
-    ""
+    "¡Lo tienen, maravilloso!"
 
 # game/mod.rpy:356
 translate spanish mod_0692c717:
 
     # cl1 "{size=12}Hey, is that the girl that keeps skipping PE?"
-    cl1 ""
+    cl1 "{size=12}Hey, ¿Esa no es la chica que se sigue saltando EF?"
 
 # game/mod.rpy:357
 translate spanish mod_afbd7809:
 
     # cl2 "{size=12}Mhm, seems like it."
-    cl2 ""
+    cl2 "{size=12}Mhm, parece serlo."
 
 # game/mod.rpy:358
 translate spanish mod_35571003:
 
     # cl2 "{size=12}Look at her, just nabbing stuff from the vending machine."
-    cl2 ""
+    cl2 "{size=12}Mirala, sacando mierdas de la máquina expendedora así sin más."
 
 # game/mod.rpy:359
 translate spanish mod_0363ed85:
 
     # cl1 "{size=12}Want to try to ask her why she keeps skipping?"
-    cl1 ""
+    cl1 "{size=12}¿Intentamos preguntarle por qué sigue saltandose las clases?"
 
 # game/mod.rpy:360
 translate spanish mod_ae338b68:
 
     # cl2 "{size=12}Sure."
-    cl2 ""
+    cl2 "{size=12}Por supuesto."
 
 # game/mod.rpy:361
 translate spanish mod_b4ce1f03:
 
     # "Oh no…"
-    ""
+    "Oh no..."
 
 # game/mod.rpy:366
 translate spanish mod_fcb5aeba:
 
     # cl2 "Hey new girl!"
-    cl2 ""
+    cl2 "¡Hey chica nueva!"
 
 # game/mod.rpy:369
 translate spanish mod_8ea4a7a0:
 
     # cl1 "Why are you here, grabbing stuff out of the vending machine instead of getting changed for PE?"
-    cl1 ""
+    cl1 "¿Que haces aquí cogiendo cosas de la maquina expendedora en vez de cambiarte para la clase de EF?"
 
 # game/mod.rpy:371
 translate spanish mod_eff90809:
 
     # s "Well… there is still time."
-    s ""
+    s "Bueno... Todavía hay tiempo."
 
 # game/mod.rpy:372
 translate spanish mod_f28a42f7:
 
     # s "And I did get a little hungry, ehehe."
-    s ""
+    s "Y estoy un poco hambrienta, jejeje."
 
 # game/mod.rpy:374
 translate spanish mod_ef395502:
 
     # cl2 "Suuure, you and hungry."
-    cl2 ""
+    cl2 "Claaaro, tu y el hambre."
 
 # game/mod.rpy:376
 translate spanish mod_e3e2e942:
 
     # cl2 "Makes sense."
-    cl2 ""
+    cl2 "Tiene sentido."
 
 # game/mod.rpy:377
 translate spanish mod_2a5081f2:
 
     # cl2 "No exercise, always hungry."
-    cl2 ""
+    cl2 "No ejercicio, siempre hambrienta."
 
 # game/mod.rpy:379
 translate spanish mod_2ecb06c3:
 
     # s "Hey… I do like sports!"
-    s ""
+    s "Hey... ¡Me gustan los deportes!"
 
 # game/mod.rpy:380
 translate spanish mod_b9c57677:
 
     # s "I just do them at home."
-    s ""
+    s "Simplemente lo hago en casa"
 
 # game/mod.rpy:382
 translate spanish mod_73a8e68b:
 
     # cl1 "What, are you embarrassed?"
-    cl1 ""
+    cl1 "¿Qué, te da vergüenza?"
 
 # game/mod.rpy:383
 translate spanish mod_1c7b9301:
 
     # cl1 "No reason to do them at home instead of here."
-    cl1 ""
+    cl1 "No hay razón para hacerlo en casa vez de aquí."
 
 # game/mod.rpy:385
 translate spanish mod_9b0227fa:
 
     # cl1 "From what I’ve heard, your home isn’t probably very nice, is it?"
-    cl1 ""
+    cl1 "Por lo que he oído, tu casa no debe ser muy genial. ¿Verdad?"
 
 # game/mod.rpy:386
 translate spanish mod_b86ac0b4:
